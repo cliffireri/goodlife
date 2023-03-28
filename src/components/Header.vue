@@ -1,9 +1,9 @@
 <template>
   <div class=" bg-gray-50 flex items-center mt-24">
-	<section class="bg-cover h-full bg-center py-60 w-full" style="background-image: url('/prism.jpg');">
+	<section class="bg-cover h-full bg-center py-10 lg:px-0 px-4 lg:py-60 w-full" style="background-image: url('/prism.jpg');">
 		<div class="container mx-auto text-left text-white">
-			<div class="flex items-center">
-				<div class="w-1/2">
+			<div class="lg:flex items-center">
+				<div class="w-full lg:w-1/2">
 					<h1 class="text-5xl text-gray-900 font-medium mb-6">Welcome to Goodlife International</h1>
 					<p class="text-xl text-gray-900 mb-2">Solutions in manufacturing of
                         high perfomant hygiene, safety and cleaning materials for general industries
@@ -16,7 +16,7 @@
                     </p>
 					<a href="#" class="bg-indigo-500 text-white py-4 px-12 rounded-full hover:bg-indigo-600">Book A Demo</a>
 				</div>
-				<div class="w-1/2 pl-16">
+				<div class="w-full mt-16 lg:mt-0 lg:w-1/2 lg:pl-16">
 					<img src="../assets/clean.jpg" class="w-full h-full object-cover rounded-xl" alt="Layout Image">
                 </div>
 			</div>
