@@ -93,9 +93,9 @@
     </div>
     <div class="mx-auto flex flex-col md:flex-row justify-between items-center space-y-4 mt-8 lg:mt-12 border-t-2 border-gray-200 pt-8">
         <nav class="flex flex-wrap justify-center space-x-6"> 
-        <a href="#" class="font-normal text-sm hover:text-gray-400 mb-2">Good Life Internation 😊</a>
+        <a href="#" class="font-normal text-sm hover:text-gray-400 mb-2">Goodlife International 😊</a>
         </nav>
-        <p class="text-sm text-center md:text-right">&copy;2022 Goodlife International. All rights reserved. | All rights reserved</p>
+        <p class="text-sm text-center md:text-right">&copy;2022 Goodlife International. All rights reserved.</p>
     </div>
     </footer>
 </template>
